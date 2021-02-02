@@ -1,0 +1,16 @@
+body{
+  background-color:paleturquoise;
+}
+h1{
+  text-align: center;
+  margin-top: 100px;
+}
+button{
+  background: olive;
+  box-shadow: grey;
+  align-items: center;
+  margin: auto;
+  display: block;
+  margin-top: 50px;
+  color: white;
+}
